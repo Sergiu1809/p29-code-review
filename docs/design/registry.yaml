@@ -1,0 +1,5 @@
+# docs/design/registry.yaml — every screen and shared component, by DS- ID.
+# Plans, commits, mocks and board files use the ID (tickets don't). kind: foundation | component | screen
+# status: draft (mock drawn) | approved (confirmed on the board) | implemented | deprecated (never delete an entry)
+# No screens yet. IDs follow DS-p29-<name>, e.g. DS-p29-portfolio.
+designs: []
